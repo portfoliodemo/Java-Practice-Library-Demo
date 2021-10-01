@@ -56,7 +56,7 @@ For example if the jar file is located in C:\users\java
   to launch the command prompt with the root directory loaded.
 - From the root directory type in 
 
-	java -jar N.Ryan2.jar
+	java -jar LibraryApp.jar
 
 Program is launched! 
 
